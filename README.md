@@ -1,2 +1,17 @@
-# Crime-prediction-management
+# “Crime Prediction and Management System”
+
 This R Programing project analyses crime on the basis of available data for various regions against different heads of crime. To fit the state data for a particular offence, a linear regression model is used. This is then used to predict the crime in the coming years.
+
+
+Day by day the crime rate is increasing considerably. Crime cannot be predicted since it is neither systematic nor random. Also the modern technologies and hi-tech methods help criminals in achieving their misdeeds. According to Crime Records Bureau crimes like burglary, arson etc have been decreased while crimes like murder, sex abuse, gang rape etc have been increased. We propose a system which can analyze, detect and predict various crime probability in a given region. To accomplish this, we obtain raw data from the police department's official website www.data.gov.in. 
+
+
+Even though we cannot predict who all may be the victims of crime but can predict the place that has probability for its occurrence. The predicted results cannot be assured of 100% accuracy but the results show that our application helps in reducing crime rate to a certain extent by providing security in crime sensitive areas. So for building such a powerful crime analytics tool we have to collect crime records and evaluate it.
+
+
+**EXISTING SYSTEM**  
+Finding the patterns and trends in crime is a challenging factor. To identify a pattern, crime analysts take a lot of time, scanning through data to find whether a particular crime fits into a known pattern. If it does not fit into an existing pattern then the data must be classified as a new pattern. After detecting a pattern, it can be used to predict, anticipate and prevent crime. Before this clustering algorithms have been used for crime analysis. 
+For instance, one site reveals that the suspect has black hair and from the next site/witness it is revealed that the suspect is young and from the third one reveals that the offender has a tattoo on his left arm etc. By describing the offender details it gives a complete picture from different crime incidents. Today most of it is manually done with the help of multiple reports that the detectives usually get from the computer data analysts and their own crime logs.
+
+**PROBLEM DEFINITION**
+We aim to explore in this work the applicability of regression technique in the efforts of crime prediction with particular emphasis to the data set. We propose to implement a model that could help us to extract crime patterns. These patterns will be applied to some data mining algorithms such as linear regression analysis. Here we look at the use of a data mining approach of regression analysis to help detect the crime patterns and speed up the process of solving crime. Our second most objective is crime prediction. Various visualization techniques and linear regression algorithms are used for predicting crime over an area. We have given input of a data set of 10 years (2001 – 2012) and predict crimes of the future 6 years i.e from 2013 to 2018. The main objective covered is, we found a solution to reduce crime in a particular state. If a particular crime is increasing every year, then, for the future years, if it’s an increasing graph, we can set up more police force to reduce that particular crime accordingly. This can also solve the purpose of awareness too. There are some states in which there is no report filed of a particular crime. So, we can create public awareness too, to report the crime, so that it can be reduced accordingly.
